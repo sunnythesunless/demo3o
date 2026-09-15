@@ -1,0 +1,6 @@
+{
+  "name": "Everbright Uniform",
+  "description": "Premium industrial, healthcare, hospitality, security, and corporate uniform specialist with B2B wholesale pricing, custom embroidery, and direct catalog ordering.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
